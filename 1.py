@@ -1,0 +1,16 @@
+A=10+2
+B=A-5
+C=5*A+B
+media = 9.6/3
+D= 19% 3 #resto de divisão
+E = 34/3 #divisão real
+F = 35//3 #divisão inteira - pega a parte inteira da divisão
+G = 5**2
+print("A=", A)
+print("B=", B)
+print("C=", C)
+print("media=", media)
+print("D=", D)
+print("E=", E)
+print("F=", F)
+print("G=", G)
