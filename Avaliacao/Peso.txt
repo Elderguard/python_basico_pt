@@ -1,0 +1,10 @@
+NOME    PESO
+Ana           75
+José          88
+Paulo        90
+Maria        72
+Antonio    95
+Manoel     92
+Neusa       66
+Olivia        48
+Sueli         56
