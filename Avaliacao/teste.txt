@@ -1,0 +1,12 @@
+PESO    NOME
+75           Ana
+88          José
+90        Paulo
+72        Maria
+95    Antonio
+92     Manoel
+66       Neusa
+48        Olivia
+56         Sueli
+
+
